@@ -1,0 +1,10 @@
+#inp{
+  color: red;
+  font-size: larger;
+}
+
+.list>li{
+  text-decoration: none;
+  display:inline-block;
+  padding: 2px;
+}
